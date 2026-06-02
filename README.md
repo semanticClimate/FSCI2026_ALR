@@ -114,7 +114,7 @@ Together, *txt2phrases* and *encyclopedia* enable the creation of a continuously
 
 ### Description: 
 
-This course explains how *Large Language Models (LLMs)* and *Retrieval-Augmented Generation (RAG)* can be used to work with PDF and HTML documents in a simple and efficient way. Participants will learn how to extract useful information from large documents, ask questions, and get accurate answers based on the actual content.
+This course explains how **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** can be used to work with PDF and HTML documents in a simple and efficient way. Participants will learn how to extract useful information from large documents, ask questions, and get accurate answers based on the actual content.
 
 It also introduces how to break documents into smaller sections, store them for quick search, and connect them with LLMs to improve responses. The module focuses on practical, step-by-step workflows that help in reading, summarizing, and exploring large collections of text.
 
